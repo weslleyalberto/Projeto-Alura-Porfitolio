@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{
+	font-size: 62.5%;
+	box-sizing: border-box;
+	margin: 0;
+}
+.boxabsulutas{
+	background: red;
+	width: 50%;
+	font-size: 320%;
+}
+.boxabsulutas > p{
+	font-size: 200%;
+}
+.boxrelativas{
+	background-color: green;
+	border: 2px solid black;
+	width: 50%;
+	font-size: 320%;
+	border-radius: 17px;
+}
+.parafrafo{
+	font-size: 400%;
+}

@@ -127,6 +127,7 @@ nav ul{
 #img-reverso{
 	
 	margin-top: 10px;
+	width: 50%
 }
 #img-contato{
 	width: 60%;
@@ -142,6 +143,9 @@ nav ul{
 #footer{
 	margin-top: 3%
 }
+#img-decorder{
+	width: 50%;
+}
 #footer p {
 	font-weight: 700;
 }
@@ -149,4 +153,6 @@ nav ul{
 	
 	background: black;
 }
-
+#p-title{
+	font-weight: 700;
+}

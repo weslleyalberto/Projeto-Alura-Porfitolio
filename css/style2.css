@@ -4,8 +4,8 @@
 body{
 	background: #F5F5F5;
 	font-family: 'Raleway', sans-serif;
-	margin-left: 7%;
-	margin-right: 7%;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 #titulo-nav{
 	font-weight: 700;
@@ -60,6 +60,15 @@ nav ul{
 	line-height: 26px;
 	margin-top: 5%;
 }
+.conteudo-sobre{
+	margin-left: 5px;
+	margin-left: 5px;		
+	text-align: justify;
+}
+#container-formacao{
+	background: #EAF2FD;
+	border-radius: 20px;
+}
 #logo-pessoa{
 	width: 50%;
 	margin-left: 0%;
@@ -80,15 +89,20 @@ nav ul{
 	text-align: left;
 	background: #EAF2FD;
 	text-justify: auto;
+	border-radius: 20px;
 }
 #title-sobre{
-	font-size: 32px!important;
-	font-weight: 700!important;
+	font-size: 200%;
+	font-weight: 700;
+	margin-left: 10px
 	
+}
+#titulo-principal-h1{
+	margin-left: 0px;
 }
 #skill-titulo{
 	font-weight: 700;
-	font-size: 32px;
+	font-size: 200%;
 }	
 #colun-center{
 	margin-top: 7%;
@@ -120,6 +134,7 @@ nav ul{
 #form-contato{
 	background: #EAF2FD;
 	max-width: 100%;
+	border-radius: 20px;
 }
 #footer{
 	margin-top: 3%

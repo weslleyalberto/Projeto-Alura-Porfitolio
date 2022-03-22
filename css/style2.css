@@ -80,13 +80,15 @@ nav ul{
 	
 }
 .container-row a{
-	margin-right: 3%;
-	font-size:16px;
+	margin-right: 0%;
 	margin-top: 0;
 	color: black;
 }
 .container-row a:hover{
 	text-decoration: underline blue;
+}
+.container-row img{
+	width: 10px;
 }
 #container-sobre{
 	text-align: left;
@@ -102,6 +104,7 @@ nav ul{
 }
 #titulo-principal-h1{
 	margin-left: 0px;
+	font-size:60%;
 }
 #skill-titulo{
 	font-weight: 700;
@@ -156,3 +159,4 @@ nav ul{
 #p-title{
 	font-weight: 700;
 }
+

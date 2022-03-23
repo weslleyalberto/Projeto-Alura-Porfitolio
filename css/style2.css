@@ -45,6 +45,9 @@ nav ul{
 #email-nav{
 	font-weight: 700;
 }
+.card-img-top:hover{
+	width: 105%;
+}
 .container-topo{
 	flex-direction: row;
 	display: inline-flex;
